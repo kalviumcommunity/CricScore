@@ -1,0 +1,3 @@
+# CricScore
+
+A platform for the online scoreboard with stats....
